@@ -1,16 +1,14 @@
-# hero_ui
+# Fashion Heroes
 
-A new Flutter project.
+A couple of screens made using flutter.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/5773232-Discovery-page/attachments
 
-This project is a starting point for a Flutter application.
+How do I code this - https://youtu.be/tuogT6GlcFs
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.io/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.io/docs/cookbook)
+## Screenshots
 
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.io/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+![screenshot_20190108-035043](https://user-images.githubusercontent.com/8137504/50912196-91108500-1457-11e9-8cfb-6e83facb4c2d.png)
+
+![screenshot_20190108-035048](https://user-images.githubusercontent.com/8137504/50912216-a1286480-1457-11e9-96a1-13be0d2fffa9.png)
